@@ -3,6 +3,11 @@
 ## The app that rewards
 
 
+
+
+
+
+
 1. Abstract
 2. Established business. Experienced team
 3. Birdchain. The app that rewards
